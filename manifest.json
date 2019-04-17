@@ -6,25 +6,25 @@
   "display": "standalone",
   "icons": [
     {
-      "src": "https://github.com/ihashing/andylamgot/blob/master/andylamgot_48.png",
+      "src": "andylamgot_48.png",
       "type": "image/png",
       "sizes": "48x48"
     },
     {
-      "src": "https://github.com/ihashing/andylamgot/blob/master/andylamgot_96.png",
+      "src": "andylamgot_96.png",
       "type": "image/png",
       "sizes": "96x96"
     },
     {
-      "src": "https://github.com/ihashing/andylamgot/blob/master/andylamgot_144.png",
+      "src": "andylamgot_144.png",
       "type": "image/png",
       "sizes": "144x144"
     },
     {
-      "src": "https://github.com/ihashing/andylamgot/blob/master/andylamgot_192.png",
+      "src": "andylamgot_192.png",
       "type": "image/png",
       "sizes": "192x192"
     }
   ],
-  "start_url": "https://github.com/ihashing/andylamgot/blob/master/index.html"
+  "start_url": "index.html"
 }
