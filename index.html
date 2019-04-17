@@ -3,7 +3,7 @@
 
 <head>
 	<title>@andylamgot</title>
-	<link rel="manifest" href="https://github.com/ihashing/andylamgot/blob/master/manifest.json">
+	<link rel="manifest" href="manifest.json">
 	<meta name="msapplication-TileColor" content="#ffffff">
 	<meta name="msapplication-TileImage" content="https://github.com/ihashing/andylamgot/blob/master/andylamgot_144.png">
 	<meta name="theme-color" content="#ffffff"> 
@@ -181,15 +181,15 @@
 
 <script data-cfasync="false" src="email-decode.min.js"></script><script src="main.js"></script>
 </body>
-	<script>
+<script>
  	if ('serviceWorker' in navigator) {
   	  console.log("Will the service worker register?");
-  	  navigator.serviceWorker.register('https://github.com/ihashing/andylamgot/blob/master/service-worker.js')
+  	  navigator.serviceWorker.register('service-worker.js')
   	    .then(function(reg){
   	      console.log("Yes, it did.");
 	     }).catch(function(err) {
 	        console.log("No it didn't. This happened:", err)
 	    });
 	 }
-	</script>
+</script>
 </html>
