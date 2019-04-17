@@ -1,0 +1,30 @@
+{
+  "short_name": "@andylamgot",
+  "name": "@andylamgot",
+  "theme_color": "#4A90E2",
+  "background_color": "#F7F8F9",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/andylamgot.jpg",
+      "type": "image/jpg",
+      "sizes": "48x48"
+    },
+    {
+     "src": "/andylamgot.jpg",
+      "type": "image/jpg",
+      "sizes": "96x96"
+    },
+    {
+     "src": "/andylamgot.jpg",
+      "type": "image/jpg",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/andylamgot.jpg",
+      "type": "image/jpg",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/?utm_source=launcher"
+}
