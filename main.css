@@ -174,7 +174,7 @@ img.company-logo {
 }
 
 .bg-color-navbar {
-	background-color: linear-gradient(to right, #00579D, #6bbdff);
+	background-image: linear-gradient(to right, #00579D, #6bbdff);
 }
 
 .bg-color-hero {
