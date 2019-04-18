@@ -51,7 +51,7 @@ img.profile-pic {
 
 img.company-logo {
 	margin-right: 0;
-	height: 75px;
+	height: 80px;
 	width: auto;
 }
 
@@ -174,7 +174,7 @@ img.company-logo {
 }
 
 .bg-color-navbar {
-	background-image: linear-gradient(to right, #00579D, #6bbdff);
+	background-color: #002960;
 }
 
 .bg-color-hero {
