@@ -338,11 +338,3 @@ img.company-logo {
 	height: 100%;
 	display: none;
 }
-
-@media screen {
-  .taglines {
-  }
-  .tagline {
-    display: none;
-  }
-}
